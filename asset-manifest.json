@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Fresh-Food-Order-App/static/css/main.d28953d1.chunk.css",
+    "main.js": "/Fresh-Food-Order-App/static/js/main.4588c269.chunk.js",
+    "main.js.map": "/Fresh-Food-Order-App/static/js/main.4588c269.chunk.js.map",
+    "runtime-main.js": "/Fresh-Food-Order-App/static/js/runtime-main.6fae0e6d.js",
+    "runtime-main.js.map": "/Fresh-Food-Order-App/static/js/runtime-main.6fae0e6d.js.map",
+    "static/js/2.19068f9e.chunk.js": "/Fresh-Food-Order-App/static/js/2.19068f9e.chunk.js",
+    "static/js/2.19068f9e.chunk.js.map": "/Fresh-Food-Order-App/static/js/2.19068f9e.chunk.js.map",
+    "index.html": "/Fresh-Food-Order-App/index.html",
+    "static/css/main.d28953d1.chunk.css.map": "/Fresh-Food-Order-App/static/css/main.d28953d1.chunk.css.map",
+    "static/js/2.19068f9e.chunk.js.LICENSE.txt": "/Fresh-Food-Order-App/static/js/2.19068f9e.chunk.js.LICENSE.txt",
+    "static/media/meals.9e657e48.jpg": "/Fresh-Food-Order-App/static/media/meals.9e657e48.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fae0e6d.js",
+    "static/js/2.19068f9e.chunk.js",
+    "static/css/main.d28953d1.chunk.css",
+    "static/js/main.4588c269.chunk.js"
+  ]
+}
